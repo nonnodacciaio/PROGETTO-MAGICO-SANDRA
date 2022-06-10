@@ -20,7 +20,7 @@ nav {
 }
 
 body {
-  background-color: var(--color-lavender);
+  background-color: whitesmoke;
 }
 
 footer {
@@ -36,3 +36,27 @@ footer {
   top: -8vh;
   opacity: 0.6;
 }
+
+#navbardrop {
+  border-radius: 30px 30px 30px 30px;
+  color: black;
+  width: 20vh;
+  border: outset;
+  border-color: white;
+}
+.col-md-6 {
+  border-radius: 50px 50px 50px 50px;
+  color: white;
+  width: 60vh;
+  border: outset;
+  border-color: rgb(98, 233, 188) rgb(68, 245, 198);
+}
+.col-md-4 {
+  border-radius: 50px 50px 50px 50px;
+  text-align: center;
+  color: white;
+  width: 20vh;
+  border: outset;
+  border-color: rgb(98, 233, 188) rgb(68, 245, 198);
+}
+/* social */
