@@ -1,0 +1,20 @@
+:root {
+  --color-greensheen: #81b29a;
+  --color-lavender: #f7edf0;
+  --color-scuro: #ddd3d6;
+  --color-lava: #c81d25;
+  --color-tealblue: #077187;
+  --color-tablechiaro: #c7f8eb;
+  --color-tablescuro: #21a9af;
+}
+
+.carousel {
+  width: 640px;
+  height: 360px;
+  margin: auto;
+  display: block;
+}
+
+body {
+  background-color: var(--color-lavender);
+}
