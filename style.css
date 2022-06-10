@@ -29,3 +29,10 @@ footer {
   max-height: 70%;
   background-size: 200vh;
 }
+
+.logo {
+  position: absolute;
+  left: 2vh;
+  top: -8vh;
+  opacity: 0.6;
+}
