@@ -7,7 +7,11 @@
   --color-tablechiaro: #c7f8eb;
   --color-tablescuro: #21a9af;
 }
-
+nav {
+  background-image: url("https://cdn.discordapp.com/attachments/983651757311815720/984770654597414963/unknown.png");
+  max-width: 100%;
+  background-size: 200vh;
+}
 .carousel {
   width: 640px;
   height: 360px;
@@ -17,4 +21,10 @@
 
 body {
   background-color: var(--color-lavender);
+}
+
+footer {
+  background-image: url("https://cdn.discordapp.com/attachments/983651757311815720/984770654597414963/unknown.png");
+  max-width: 100%;
+  background-size: 200vh;
 }
